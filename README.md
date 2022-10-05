@@ -1,0 +1,3 @@
+# SSIS
+SQL SERVER INTEGRATION SERVICES
+![PERCENTAGE SAMPLING IMAGE](https://user-images.githubusercontent.com/66219250/194047612-4c2bf434-cc8c-4493-b09a-f320746faaaa.png)
